@@ -1,4 +1,3 @@
-<img width="1672" height="941" alt="KakaoTalk_20260908_163703623" src="https://github.com/user-attachments/assets/e0d8bdfa-106c-4fad-a7ef-c0870c3f8201" />
 [README 3d58e47c12e180efa0fdc9f755e2feb7.md](https://github.com/user-attachments/files/31943233/README.3d58e47c12e180efa0fdc9f755e2feb7.md)
 # README
 
