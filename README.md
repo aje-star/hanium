@@ -172,6 +172,9 @@ flowchart TD
 
 <img width="1672" height="941" alt="KakaoTalk_20260908_163703623" src="https://github.com/user-attachments/assets/dfd85b52-8d64-4f38-a2ac-7555a1a8769c" />
 
+[26년 한이음 어셈블리 파일 (미완) (2).zip](https://github.com/user-attachments/files/31943739/26.2.zip)
+
+
 ### 3-4. 동작 흐름
 
 1. LiDAR와 IMU로 주변 환경을 인식하고 2D 지도를 생성합니다.
