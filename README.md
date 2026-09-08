@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="KakaoTalk_20260908_163703623" src="https://github.com/user-attachments/assets/e0d8bdfa-106c-4fad-a7ef-c0870c3f8201" />
 [README 3d58e47c12e180efa0fdc9f755e2feb7.md](https://github.com/user-attachments/files/31943233/README.3d58e47c12e180efa0fdc9f755e2feb7.md)
 # README
 
@@ -169,6 +170,8 @@ flowchart TD
 | 구동부 | LX-16A 서보 모터 | 4족 보행 관절 구동 |
 | 흡착부 | 진공 다이어프램 펌프, 솔레노이드 밸브, 흡착 패드 | 벽면·경사면 고정 및 해제 |
 | 전원부 | Li-Po 배터리, 스텝다운 벅 컨버터 | 연산부·센서·구동부 전원 공급 |
+
+<img width="1672" height="941" alt="KakaoTalk_20260908_163703623" src="https://github.com/user-attachments/assets/dfd85b52-8d64-4f38-a2ac-7555a1a8769c" />
 
 ### 3-4. 동작 흐름
 
