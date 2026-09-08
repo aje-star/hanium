@@ -187,12 +187,17 @@ flowchart TD
 
 ### 3-5. 주요 구현 화면 및 H/W
 
-![DANGER.PNG](DANGER.png)
+<img width="657" height="510" alt="캡처" src="https://github.com/user-attachments/assets/bfd07a69-42a5-44e1-806a-a66874b2d33e" />
+<img width="855" height="531" alt="캡처2" src="https://github.com/user-attachments/assets/f4b9fbbd-00f5-4aaf-9d89-7fc8e8773a39" />
 
-![SAFE.PNG](SAFE.png)
-
-- **Safe** : 정면 측정 거리가 임계값보다 충분히 큰 상태
-- **Danger** : 정면 측정 거리가 임계값 이하로 감소하여 근접 장애물이 있다고 판단한 상태
+LiDAR ROS 2 드라이버 실행 터미널
+LiDAR 정면 장애물 인식 결과
+RF2O Odometry 실행 터미널
+RViz2 Odometry·TF 확인 화면
+SLAM Toolbox 실행 터미널
+SLAM 2D 지도 생성 결과
+음성 방향 추정 노드 실행 터미널
+LaserScan·TF·Map·Marker가 같이 보이는 RViz2 통합 화면
 
 #### 4족 보행용 LX-16A 서보
 
